@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786049547837",
+    "project_id": "facomstudies",
+    "storage_bucket": "facomstudies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786049547837:android:6b1bc8bd481dd63eabb454",
+        "android_client_info": {
+          "package_name": "com.example.facomquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786049547837-f2atitkbidh27ckks6n2u7f27o1d243s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZk8Wayw1DTw-FiNp_aQugfbyd2xokxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786049547837-f2atitkbidh27ckks6n2u7f27o1d243s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

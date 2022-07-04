@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/pdf"
+        android:icon="@drawable/ic_baseline_picture_as_pdf_24"
+        android:title="eBooks"/>
+
+   <item android:id="@+id/share"
+       android:icon="@drawable/ic_baseline_android_24"
+    android:title="share App"/>
+
+    <item android:id="@+id/rate"
+        android:icon="@drawable/ic_baseline_android_24"
+    android:title="Rate us"/>
+
+    <item android:id="@+id/about"
+        android:icon="@drawable/ic_baseline_android_24"
+        android:title="About"/>
+
+
+
+
+</menu>
